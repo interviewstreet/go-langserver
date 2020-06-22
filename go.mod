@@ -10,7 +10,6 @@ require (
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/hashicorp/golang-lru v0.5.4
-	github.com/keegancsmith/tmpfriend v0.0.0-20180423180255-86e88902a513
 	github.com/lightstep/lightstep-tracer-go v0.20.0
 	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/neelance/parallel v0.0.0-20160708114440-4de9ce63d14c
@@ -25,6 +24,8 @@ require (
 	github.com/sourcegraph/go-lsp v0.0.0-20200117082640-b19bb38222e2
 	github.com/sourcegraph/jsonrpc2 v0.0.0-20191222043438-96c4efab7ee2
 	github.com/sourcegraph/jsonx v0.0.0-20190114210550-ba8cb36a8614
+	github.com/spf13/afero v1.3.0
+	github.com/traherom/memstream v0.0.0-20151017195931-b2247a2040b3
 	github.com/uber/jaeger-client-go v2.22.1+incompatible
 	github.com/uber/jaeger-lib v2.2.0+incompatible
 	go.uber.org/atomic v1.6.0 // indirect
